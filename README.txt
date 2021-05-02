@@ -12,4 +12,4 @@ ex2_res_prop_max_infected_nom_parametre_variable.txt et
 ex2_res_distri_multi_infected_nom_parametre_variable.txt avec nom_parametre_variable le nom des
 paramètres suivis.
 
-J'ai utilisé votre simulateur se situant dans l'archive Virus_old.jar.
+Utilisation du simulateur se situant dans l'archive Virus_old.jar.
